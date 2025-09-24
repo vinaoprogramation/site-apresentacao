@@ -27,7 +27,7 @@
 }
 
 .menu li{
-    height: 30px;
+    height: 80px;
     background-color: whitesmoke;
 
 }
@@ -37,5 +37,5 @@
     list-style-type: none;
     text-decoration: none;
     color: black;
-    height: fit-content;
+    height: 80px;
 }
