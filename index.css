@@ -15,3 +15,7 @@
     width: 100%;
     display: flex;
 }
+
+.menu li a{
+    font-size: 1em;
+}
