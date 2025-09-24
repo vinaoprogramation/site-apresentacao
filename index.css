@@ -9,6 +9,7 @@
     width: 100%;
     display: inline-block;
     font-size: 1.2em;
+    height: fit-content;
 }
 
 .menu{
@@ -16,11 +17,12 @@
     display: flex;
     justify-content: space-around;
     list-style-type: none;
-
+    height: fit-content;
 }
 
 .menu ul{
     list-style-type: none;
+    height: fit-content;
 }
 
 .menu li a{
@@ -28,4 +30,5 @@
     list-style-type: none;
     text-decoration: none;
     color: black;
+    height: fit-content;
 }
