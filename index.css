@@ -17,6 +17,10 @@
     justify-content: space-around;
 }
 
+.menu ul{
+    list-style-type: none;
+}
+
 .menu li a{
     font-size: 0.3em;
 }
