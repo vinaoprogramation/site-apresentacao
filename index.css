@@ -26,5 +26,5 @@
 .menu li a{
     font-size: 0.3em;
     list-style-type: none;
-
+    text-decoration: none;
 }
