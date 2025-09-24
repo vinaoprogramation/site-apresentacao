@@ -46,4 +46,5 @@
     width: 100%;
     background-image: url(imagens/imagem.jpg);
     background-size: cover;
+    background-position: center;
 }
