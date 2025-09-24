@@ -28,6 +28,8 @@
 
 .menu li{
     height: fit-content;
+        background-color: whitesmoke;
+
 }
 
 .menu li a{
