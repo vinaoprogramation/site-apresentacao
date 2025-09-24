@@ -23,6 +23,11 @@
 .menu ul{
     list-style-type: none;
     height: fit-content;
+    background-color: whitesmoke;
+}
+
+.menu li{
+    height: fit-content;
 }
 
 .menu li a{
