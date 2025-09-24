@@ -26,9 +26,10 @@
     background-color: whitesmoke;
 }
 
-.menu li{
+.menu a{
     height: 80px;
     background-color: whitesmoke;
+    font-size: 0.3em;
 
 }
 
